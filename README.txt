@@ -1,6 +1,4 @@
-*** Created by Cyptic Applications ***
-
-*** Designed by Alex Meyer ***
+*** Designed and created by Cryptic Applications ***
 
 This program gives you up to date information about your local computer and network connections all in one place.
 
